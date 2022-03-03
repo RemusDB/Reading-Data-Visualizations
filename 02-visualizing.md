@@ -43,7 +43,7 @@ type: video
 video: https://vimeo.com/654067950
 
 
-#### Exercise: Exercise: Choosing effective visuals for sales evolution
+#### Exercise: Choose effective visuals for sales evolution
 id: multichoice-test-knowledge
 url: multichoice-test-knowledge
 type: quiz
@@ -56,7 +56,7 @@ type: quiz
 
 <p align="middle"><img src="/static/Pie_chart.png" alt="recursion" align="middle" style="max-width: 100%"></p>
 
-<p align="middle"><img src="/static/Capture.png" alt="recursion" align="middle" style="max-width: 100%"></p>
+<p align="middle"><img src="/static/Line_chart.png" alt="recursion" align="middle" style="max-width: 100%"></p>
 
 <p align="middle"><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vStyV0dE74Z_9-X0lLky7e5MQlOfUGwwDA2RdL7iADARlWoZHuGHN4JFsxb0G6rqGF3zqofl2bQZbdR/pubchart?oid=1566313988&format=image" alt="recursion" align="middle" style="max-width: 100%"></p>
 
@@ -99,6 +99,60 @@ One of the first charts you build is one to represent sales evolution over the p
 
 <p>Choose one of the provided options.</p>
 
+
+#### Exercise: Analyze profit drill-down data from a chart
+id: powerbi-demo-multichoice
+url: powerbi-demo-multichoice
+type: powerbi
+video: https://vimeo.com/488974803
+
+##### Context
+
+<p>You are working with Marketing and Sales team to decide on which product lines to launch a special discount campaign to increase profit next year. The data analyst shares with you a report with profit drill-down on each product line for last year.</p>
+
+##### Instructions
+
+###### Step #1
+
+<p>Take a close look at the profit drill-down chart to see what was the contribution of each product line to the overall 508 MIL EUR profit.</p>
+
+####### Step Hint 
+
+##### Task
+type: multichoice
+answer: 1
+
+###### Question
+
+<p>Which product line had the least contribution on profit and thus, you would want to launch a special campaign for?</p>
+
+###### Option #1
+
+<p>Food and beverages.</p>
+
+####### Option Feedback
+
+<p>Good job! Indeed, Food and beverages generated only 58 MIL EUR profit, which was the least out of all categories.</p>
+
+###### Option #2
+
+<p>Health and beauty</p>
+
+####### Option Feedback
+
+<p>Take a closer look, Health and beauty had the highest contribution to the overall profit.</p>
+
+###### Option #3
+
+<p>Fashion accessories</p>
+
+####### Option Feedback
+
+<p>Look closely at the chart again.</p>
+
+###### Hint
+
+<p>Choose one of the provided options.</p>
 
 
 
