@@ -25,7 +25,7 @@ url: why-context
 type: video
 video: https://vimeo.com/684173037/458d5761cc
 
-#### Exercise: Analyze profit data from a chart
+#### Exercise: Idenfity profit drivers from chart
 id: powerbi-demo-multichoice
 url: powerbi-demo-multichoice
 type: powerbi
@@ -39,9 +39,19 @@ video: https://vimeo.com/488974803
 
 ###### Step #1
 
+<p>Go to the Profit drill-down page of the FoodTiger sales performance dashboard.</p>
+
+####### Step Hint 
+
+<p>You can find the page names in the lower part of the report.</p>
+
+###### Step #2
+
 <p>Take a close look at the profit drill-down chart to see what was the contribution of each product line to the overall 508 MIL EUR profit.</p>
 
 ####### Step Hint 
+
+<p>Each product line is represented by a distinct bar.</p>
 
 ##### Task
 type: multichoice
@@ -57,7 +67,7 @@ answer: 1
 
 ####### Option Feedback
 
-<p>Good job! Indeed, Food and beverages generated only 58 MIL EUR profit, which was the least out of all categories.</p>
+<p>Good job! Indeed, Food and beverages generated only 59 MIL EUR profit, which was the least out of all categories.</p>
 
 ###### Option #2
 
@@ -78,6 +88,55 @@ answer: 1
 ###### Hint
 
 <p>Choose one of the provided options.</p>
+
+
+#### Exercise: Analyze monthly sales data by product line
+id: powerbi-demo-multichoice2
+url: powerbi-demo-multichoice2
+type: powerbi
+video: https://vimeo.com/488974803
+
+##### Context
+
+<p>In the same meeting, you realize that you did a similar campaign for Electronic accessories in July 2021 and want to see what were the results back then to have a benchmark.</p>
+
+##### Instructions
+
+###### Step #1
+
+<p>Go to the Sales by product page of the FoodTiger sales performance dashboard.</p>
+
+####### Step Hint 
+
+<p>You can find the page names in the lower part of the report.</p>
+
+###### Step #2
+
+<p>Here you have the sales for each month, by product line. Look at sales for July 2021.</p>
+
+####### Step Hint 
+
+<p>You can see the dates on the left-hand side.</p>
+
+##### Task
+type: open
+answer: 35
+
+###### Question
+
+<p>By only looking at the chart, what was the sales volume (mil EUR) for Electronice accessories in July 2021 ?</p>
+
+###### Hint
+
+<p>Look closely at the July 2021 sales and identify the corresponding Electronic accessories part.</p>
+
+###### Success Feedback
+
+<p>That’s right! Electronic accessories generated 35 mil EUR sales.</p>
+
+###### Failure Feedback
+
+<p>Please try again, this is not the correct answer.</p>
 
 
 
