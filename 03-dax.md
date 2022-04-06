@@ -61,7 +61,7 @@ type: quiz
 <p align="middle"><img src="https://drive.google.com/uc?export=download&id=1LcAoo51Q1jDtKLwEXqPy4YihBMEoW0or" alt="recursion" align="middle" style="max-width: 100%"></p>
 
 
-##### Task: Indetify the correlation type
+##### Task: Indentify the correlation type
 type: multichoice
 answer: 2
 

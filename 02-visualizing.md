@@ -23,13 +23,13 @@ url: context-01
 id: why-context
 url: why-context
 type: video
-video: https://vimeo.com/684173037/458d5761cc
+video: https://vimeo.com/687965835
 
 #### Exercise: Idenfity profit drivers from chart
 id: powerbi-demo-multichoice
 url: powerbi-demo-multichoice
 type: powerbi
-video: https://vimeo.com/488974803
+video: https://vimeo.com/687965835
 
 ##### Context
 
